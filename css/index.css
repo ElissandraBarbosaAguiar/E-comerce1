@@ -1,6 +1,23 @@
 body{
-    background-color : rgb(171, 92, 245);
+    background-color: rgba(121, 120, 119, 0.301);
 }
-p{
-    background-color: brown;
+body h2{
+    color: orange;
+}
+body p{
+    font-size: 15px;
+    font-family: roboto;
+}
+nav .container-fluid{
+    background-color: rgba(250, 232, 153, 0.877);
+    padding-top: 1rem;
+    padding: 1rem;
+    margin-left: 50%;
+    margin-top:1rem;
+    
+}
+.contanier{
+    background-color: white;
+    padding: 12rem;
+    
 }
