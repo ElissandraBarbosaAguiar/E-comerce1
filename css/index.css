@@ -12,23 +12,26 @@ nav .container-fluid{
     background-color: rgba(250, 232, 153, 0.877);
     padding-top: 1rem;
     padding: 1rem;
-    margin-left: 50%;
+    margin-left: 1%;
+    margin-right: 1%;
     margin-top:1rem;
     
 }
 .contanier{
     background-color: white;
     padding: 12rem;
+    margin-right: 50rem;
+    margin-left: 2rem;
+    
     
 }
 .contanier-menor{
-    background-color: rgb(107, 7, 7);
-    content: 100px;
-    margin-right: 150px ;
-    margin-left: 100px;
-   =
-
-    
+    background-color: rgba(252, 175, 175, 0.966);
+    margin-right: 1px ;
+    margin-left: 10px;
+    padding-left: 15rem;
+    padding-right: 15rem;
+        
 
 
 }
